@@ -1,3 +1,0 @@
-# Playground Repo
-
-For practicing.
